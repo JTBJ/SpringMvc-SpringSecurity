@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	background-color: grey;
+	display: inline-block;
+}
+
+form {
+	position: absolute;
+	background-color: grey;
+}
+
+input {
+	float: right;
+	position: relative;
+}
+
+label {
+	float: left;
+	position: relative;
+}

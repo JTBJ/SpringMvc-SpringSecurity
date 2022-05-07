@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.div-header {
+	margin-top: 15px;
+	background-color: lightblue;
+	padding: 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.h1-header {
+	margin-left: 20px;
+}
+
+.nav-header {
+	margin-right: 20px;
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+}
+
